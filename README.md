@@ -1,1 +1,1 @@
-# Pythonpyramid
+# Python pyramid
